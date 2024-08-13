@@ -1,3 +1,4 @@
+---
 # Config
 apiVersion: v1
 kind: ConfigMap
